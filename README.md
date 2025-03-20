@@ -1,5 +1,5 @@
 <h1 align="center">🕹 Luiz Otávio</h1>
-<h3 align="center">Meu Nome é Luiz Otávio Marques e eu estou finalizando o terceiro ano do Ensino Médio e também cursando um curso técnico de desenvolvimento de sistemas em Cachoeiro de Itapemirim.</h3>
+<h3 align="center">Meu Nome é Luiz Otávio Marques e eu estou no terceiro ano do Ensino Médio e também cursando um curso técnico de desenvolvimento de sistemas em Cachoeiro de Itapemirim.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tavin997-tech&label=Profile%20views&color=0e75b6&style=flat" alt="tavin997-tech" /> </p>
 
