@@ -7,7 +7,7 @@
 
 - 🌱 Eu atualmente estou aprendendo **python**
 
-- 👨‍💻 todos os meus projetos estão públicos aqui na plataforma [(nenhum por enquanto)]
+- 👨‍💻 todos os meus projetos estão públicos aqui na plataforma (nenhum por enquanto)
 
 - 📫 como me encontrar: **luiz.o.loureiro@aluno.senai.br**
 
